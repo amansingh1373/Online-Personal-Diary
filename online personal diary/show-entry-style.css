@@ -1,0 +1,50 @@
+.top-nav{
+	background-color:#33D133;
+	display: flex;
+	justify-content:space-between;
+	padding:0.5%;
+	border-bottom:2px solid black;
+}
+.side-menu-direct{
+	color:white;
+	padding:0.5%;
+	margin:0.5%;
+}
+.side-menu-direct a{
+	text-decoration: none;
+	color:white;
+}
+.entry-direct{
+	border-radius:7px;
+	background-color:white;
+	color:#33D133;
+	padding:0.5%;
+	margin:0.5%;
+	padding-left:2%;
+	padding-right:2%;
+}
+.entry-direct a{
+	text-decoration:none;
+	color:#33D133;
+}
+.diary-entry{
+	padding:2%;
+}
+.title{
+	
+}
+.title-content{
+	padding:1%;
+	margin:1%;
+	border:0.5px solid #ececec;
+	border-radius:4px;
+	box-shadow:4px 2px 4px  #c5c3c3;
+}
+.entry{
+	min-height:60vh;
+	padding:1%;
+	margin:1%;
+	border:0.5px solid #ececec;
+	border-radius:4px;
+	box-shadow:4px 2px 4px  #c5c3c3;
+}
